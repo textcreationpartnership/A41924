@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Middle-Row in Holbourn, or, A true relation of a dreadful ghost which appeared in the shape of one Mrs. Adkins to several persons, but especially to a maid-servant at the Adam and Eve, all in a flame of fire on Tuesday-night last, being the 16th of this instant March, 1679.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41924</idno>
+            <idno type="STC">Wing G1727</idno>
+            <idno type="STC">ESTC R28676</idno>
+            <idno type="EEBO-CITATION">10736563</idno>
+            <idno type="OCLC">ocm 10736563</idno>
+            <idno type="VID">45585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1403:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Middle-Row in Holbourn, or, A true relation of a dreadful ghost which appeared in the shape of one Mrs. Adkins to several persons, but especially to a maid-servant at the Adam and Eve, all in a flame of fire on Tuesday-night last, being the 16th of this instant March, 1679.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ghosts --  England --  London.</term>
+               <term>Infanticide --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45585:1"/>
+            <!-- PDF PAGE 28 -->
+            <pb n="1" facs="tcp:45585:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>
+               <hi>Great News</hi> FROm Middle-RoW IN HOLBOURN: OR A TRUE RELATION OF A DREADFUL GHOST WHICH Appeared in the Shape of one Mrs. <hi>Adkins,</hi> to ſe<g ref="char:EOLhyphen"/>veral perſons but eſpecially to a Maid-Servant at the <hi>Adam and Eve,</hi> all in a Flame of Fire on Tueſday-night laſt, being <date>the 16th of this inſtant <hi>March,</hi> 1679.</date>
+            </head>
+            <head type="sub">With the full account how ſhe diſcovered to her the Murther of two Children, and where they were Buryed, where upon ſearch the Bones were accordingly found, with many other amazing and moſt dreadful Circumſtances.</head>
+            <p>STrange and wonderful are all the diſcoveries of Omnipotent Providence, when Crimes that bluſh with cruel Murthers do pollute the world, reſtleſs Ghoſts and Airy forms from their
+<pb n="2" facs="tcp:45585:2"/>
+               <!-- PDF PAGE 29 -->
+dire Manſions, and compel'd to rouſe and diſcover their vile deeds their vile hands have done as may in alls (the Fame of which has reached the Ears of many Thouſands) be more dreadful ſhown.</p>
+            <p>Mrs. <hi>Adkins</hi> late a Midwife dying in <hi>Scroop</hi> Court in <hi>Holbourn</hi> about half a year ſince, after whoſe Deceaſe as it is credibly re<g ref="char:EOLhyphen"/>ported by ſeveral of the Neighbours of good Teſtimonies there has been at divers times unuſual moleſtation, and as ſome affirm ſtrange Apparitions reſembling her ſhape and form, ſo that affrigh<g ref="char:EOLhyphen"/>ted with the gaſtly Wonder, many have amazed fled to ſhelter from the fleeting ſhade, but being timerous to divulge upon the not as then perfect certainty, this weighty ſecret has been long concealed, but ſince the great God has thought fit that ſuch a Monſtrous Crime as that Appearance did portend, ſhould be no longer hid or masked in Darkneſs be forever ſilent; for the afore<g ref="char:EOLhyphen"/>ſaid Party late Deceaſed, formerly living in <hi>Middle Row,</hi> and there profeſſing the Dexterity of a Midwife had been for many years looked upon as a Woman of an extraordinary ſubtilty and pri<g ref="char:EOLhyphen"/>vate policy, ſo that during her lifetime ſhe would oft applaud her Wit, and ſay, her Head-piece had ben ſtill her chiefeſt Friend, and had preſerved her from all dangers yet, but theſe dark Sil<g ref="char:EOLhyphen"/>logiſms being then not underſtood, were looked upon as vain and frivolous, but ſince her Transmigration from the Regions of Mor<g ref="char:EOLhyphen"/>tality, a ſhape like hers, if not her Wandering Spirit, has Alarmed the Houſe in <hi>Middle Row</hi> where formerly ſhe lived, and noiſes have been heard, nocturnal Viſions and Impetuous Groans have ſounded out the diſmal Ecchoes of ſome ſtrange Event, but the Spirit finding none that would or dare reply, at laſt began to be more importunate, and burſting from the long incloafing Grave, or from the diſmal Regions of the Dead, aſſumed a Mortal Shape, and would no longer keep concealed what was the cauſe of its diſturbance, but on Tuesday being the 16 of this Inſtant <hi>March</hi> about 9 of the Clock in the Evening, a Servant Maid living in the Houſe in <hi>Middle row</hi> where it appeared, being by her Miſtriſs ſent up Stairs to fetch down her Night Cloaths, no ſooner entred the Chamber, but a <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eadfu<gap reason="illegible: bleedthrough" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Ghoſt in the ſhape o<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her whom we be<g ref="char:EOLhyphen"/>fore recited, preſents it ſelf unto her view, ſeating it ſelf ſitting as ſhe ſuppoſed upon the Cupboard head, and with gaſtly Coun<g ref="char:EOLhyphen"/>tenance ſeemed to belch flames of Fire, at which amazed, all pale with fear, ſhe ſtarted back, but had not power to fly, yet with a faint Voice cryed, <hi>O Miſtreſs, The Chamber is all on Fire;</hi> When
+<pb n="3" facs="tcp:45585:2"/>
+               <!-- PDF PAGE 29 -->
+the immortal Spirit bid her not to fear, for its Commiſſion was not to injure her, but charged her to tell <hi>Mary</hi> (which is ſince ſuppoſed to be her Grandchild) that ſhe ſhould take up two Tiles in the hearth, and under them ſhould find a board and what ſhe found beneath, that ſhe ſhould bury, and ſo in a Flaſh of Lightning Vaniſhed, this the Maid after ſhe had recovered, from the great Amazement ſhe was in, imparted to her Miſtreſs and Maſter, who at firſt would give no credit to what ſhe ſaid, but of<g ref="char:EOLhyphen"/>ten affirming the Truth of the moſt wondrous Apparition, and there having been a former Rumor of an Apparition, they con<g ref="char:EOLhyphen"/>decended to dig in the place the Mald had told them of, firſt ta<g ref="char:EOLhyphen"/>king up the Tiles, about four Inches deeper they found a Board accordingly, and ſearching farther found the Bones of two chil<g ref="char:EOLhyphen"/>dren, as it is ſuppoſed, but of one 'tis certain the ſaid Bones being at this time to be ſeen at the <hi>Cheſhire Cheeſe</hi> in Middle row, but lying almoſt underneath the Fire-place, are ſo dried, that they are reduced to a ſmall ſubſtance. It is conjectured that they had been Children Illegitimate, or Baſtards who to ſave their Mo<g ref="char:EOLhyphen"/>thers Credits had been Murthered, and buried there, and in the Opinions of divers Chirurgions might have lain there ſince their firſt repoſe, a conſiderable quantity of years.</p>
+            <p>Therefore let all admire and fear that God who made the world, &amp; views with narrow ſearching Eyes whate're is done, though ſable-night and veils of darkneſs cover the moſt horrid Sceene, yet all lies open, and no ſecret can overpaſs his boundleſs wiſdome, nor eſcape his ſight; nay Hell it ſelf has not a depth ſufficient to obſcond prodigious crimes from him, how often are the Fiends of hell com<g ref="char:EOLhyphen"/>pelled to declare thoſe Cruelties themſelves have been the Authors or the Promoters to; and blood of innocents cried loud for Vengeance from the Earth and their Murthers after Ages have re<g ref="char:EOLhyphen"/>vealed.</p>
+            <p>
+               <pb n="4" facs="tcp:45585:3"/>
+               <!-- PDF PAGE 30 -->
+For know, that Murther bears a laſting ſtain and clogs the Conſcience of the Guilty Soul with the reſtleſs fears and jeloſies which often make de<g ref="char:EOLhyphen"/>ſpairing Mortals unaccuſed by Man, betray them ſelves, or if not ſo, at leaſt when Death, has cloſed their Eyes, and as the World imagines, they repoſe in a long ſlumber, till the dreadful day of rendring Account, their reſtleſs Spirits forced about the Earth, do wander up and down until they have made known thoſe Crimes the Party repreſented in thoſe thin and Airy forms did in their Lifetimes act, as the holy works of many learned Divines do teſtifie, and ſome places of Seripture hints upon; ſo that we may well conclude our ſtrange Relati<g ref="char:EOLhyphen"/>on with the Prophet <hi>David, Great and wonderful art thou O Lord, and dreadful to be feared in Hea<g ref="char:EOLhyphen"/>ven and in Earth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45585:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
